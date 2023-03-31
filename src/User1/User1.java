@@ -7,6 +7,8 @@ public class User1 {
 		// TODO Auto-generated method stub
 		System.out.println("Change 1 done by User 1");
 		System.out.println("Change 2 done by User 1");
+		System.out.println("Change 2 done by User 2");
+		System.out.println("Change 2 done by User 2");
 
 	}
 
